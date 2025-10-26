@@ -38,3 +38,10 @@ I may explore this dataset in any way I would like, here are a few ideas:
 6. Explore the top-selling products and countries based on the quantity sold.
 7. Identify any outliers or anomalies in the dataset and discuss their potential impact on the analysis.
 8. Draw conclusions and summarize your findings from the exploratory data analysis.
+
+## Task 1: Load the Data
+
+<img width="291" height="272" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e2296401-7488-4dd4-9309-18e496fdbf3a" />
+
+
+<img width="894" height="450" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/d55f4dac-1c47-45ac-aefc-05ba11f75c78" />
