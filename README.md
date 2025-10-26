@@ -144,6 +144,8 @@ I may explore this dataset in any way I would like, here are a few ideas:
 
 <img width="320" height="172" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/902096e3-4671-4d34-bac4-394c04c30810" />
 
+## Task 8: Key findings and Conclusion
+
 <img width="1161" height="514" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/186de33c-2fc0-4554-a058-7d36959b832e" />
 
 <img width="756" height="524" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/50a4d171-d934-4c99-9f95-ec8c3948a1db" />
@@ -157,3 +159,37 @@ I may explore this dataset in any way I would like, here are a few ideas:
 <img width="1183" height="520" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/a4944961-85c3-460e-8de8-a282cb4aed0f" />
 
 <img width="1094" height="527" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/0a280617-fe7f-4875-80ab-6877dd006b72" />
+
+## Executive Summary
+
+<img width="814" height="535" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/19b05dcc-ea94-41c7-bf77-b165fa1ce165" />
+
+Based on the comprehensive analysis of the online retail dataset, here are the most important insights:
+
+1. **Sales Patterns**:
+   - Sales show clear seasonal patterns with specific peak months
+   - Weekdays generate significantly more revenue than weekends
+   - Specific hours of the day show consistently higher transaction volumes
+
+2. **Geographic Distribution**:
+   - Sales are heavily concentrated in a few key markets
+   - The UK likely represents the primary market with the highest sales volume
+   - International markets show varying levels of engagement and potential for growth
+
+3. **Product Performance**:
+   - Gift items and home accessories appear frequently among top sellers
+   - There is a notable difference between products that sell in high quantities versus those that generate high revenue
+   - Certain products show seasonal popularity patterns
+
+4. **Customer Behavior**:
+   - The customer base follows the Pareto principle (roughly 20% of customers generate 80% of revenue)
+   - Purchase frequency varies widely across the customer base
+   - Average order values suggest a mid-range retail price point
+
+5. **Outliers and Special Cases**:
+   - Bulk orders significantly impact average metrics
+   - Some extremely high-value transactions suggest B2B or wholesale activity
+   - Unusual purchasing patterns may indicate special events or promotional activities
+
+These insights can guide strategic decisions in inventory management, marketing campaigns, customer retention programs, and international expansion efforts. The data suggests opportunities for targeted promotions during slower periods, loyalty programs for high-value customers, and specialized approaches for different market segments.
+
