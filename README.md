@@ -10,9 +10,9 @@ In this project, I will be working with transactional data from an online retail
 By conducting exploratory data analysis, I will identify patterns, outliers, and correlations in the data, allowing me to make data-driven decisions and recommendations to optimize the store's operations and improve customer satisfaction. Through visualizations and statistical analysis, I will uncover key trends, such as the busiest sales months, best-selling products, and the store's most valuable customers. Ultimately, this project aims to provide actionable insights that can drive strategic business decisions and enhance the store's overall performance in the competitive online retail market.
 
 ## Project Objectives
-1.) Describe data to answer key questions to uncover insights
-2.) Gain valuable insights that will help improve online retail performance
-3.) Provide analytic insights and data-driven recommendations
+1.) Describe data to answer key questions to uncover insights.
+2.) Gain valuable insights that will help improve online retail performance.
+3.) Provide analytic insights and data-driven recommendations.
 
 ## Dataset
 The dataset you will be working with is the "Online Retail" dataset. It contains transactional data of an online retail store from 2010 to 2011. The dataset is available as a .xlsx file named Online Retail.xlsx.
