@@ -105,3 +105,18 @@ I may explore this dataset in any way I would like, here are a few ideas:
 <img width="1166" height="507" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/4147bc01-2493-4df7-9f9f-dd0ef319c48b" />
 
 <img width="387" height="82" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/8d3bd363-5796-4409-84f7-6f27e672b811" />
+
+## Task 5: Top-selling Products and Countries
+
+<img width="634" height="509" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/dd7179d2-52ad-4992-8027-452ade9e9ff5" />
+
+<img width="868" height="520" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/e190204c-927f-404a-b7a4-c2042014dba3" />
+
+<img width="1174" height="516" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/a9766b1d-45f5-48ab-9689-cff449b4b371" />
+
+<img width="485" height="101" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/b46e5868-18b7-4e02-b7d7-20ac1b4d4094" />
+
+<img width="1174" height="366" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/437e97af-f938-4361-8aaa-d07992053360" />
+
+<img width="1170" height="377" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/081a74e7-ebc3-46bc-be18-a08e906db411" />
+<img width="545" height="232" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/0e6ab90a-a68b-4c6d-b1b4-9d4314fed67b" />
