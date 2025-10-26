@@ -79,4 +79,29 @@ I may explore this dataset in any way I would like, here are a few ideas:
 <img width="392" height="280" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/bc94e6c0-c770-4547-b447-bda7579cf637" />
 
 <img width="555" height="506" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/072ea586-e744-4b35-ad2e-63891046f3d7" />
+
 <img width="615" height="356" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/81ce4ea6-1124-4c5a-8bf1-5272d917247f" />
+
+## Task 4: Sales Trend over Time
+
+<img width="754" height="329" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/06b6e02f-1ea3-41e2-bda1-fc569666d954" />
+
+<img width="864" height="509" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/e0b033a0-6f32-4100-a8cd-381cd22b757d" />
+
+<img width="737" height="524" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/c2b76e41-c059-47c5-81e7-d747a8682e32" />
+
+<img width="650" height="533" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/8736ecca-9a9c-42bb-9912-838997031285" />
+
+<img width="1175" height="533" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/75827b52-f98e-4f2c-9fc7-af16b2bcf394" />
+
+<img width="303" height="158" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/fb01f6c6-b4e7-4afa-8411-356607e3e558" />
+
+<img width="1164" height="508" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/1ba82c6f-f25f-4812-a712-c5ff3bf1f59a" />
+
+<img width="1176" height="486" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/cdcd55db-a5c1-4736-bbea-f00d3d9be8ed" />
+
+<img width="290" height="126" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/4d1d8228-26c0-4444-b76b-3264441e65dc" />
+
+<img width="1166" height="507" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/4147bc01-2493-4df7-9f9f-dd0ef319c48b" />
+
+<img width="387" height="82" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/8d3bd363-5796-4409-84f7-6f27e672b811" />
