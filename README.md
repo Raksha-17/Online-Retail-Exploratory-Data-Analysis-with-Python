@@ -44,4 +44,23 @@ I may explore this dataset in any way I would like, here are a few ideas:
 <img width="291" height="272" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e2296401-7488-4dd4-9309-18e496fdbf3a" />
 
 
+
 <img width="894" height="450" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/d55f4dac-1c47-45ac-aefc-05ba11f75c78" />
+
+## Task 2: Data cleaning
+
+
+<img width="764" height="408" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3d340fb1-5d34-45df-8edb-7c30edc7bfdf" />
+
+<img width="404" height="139" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f43b0859-1659-4979-8582-82d05d8695c0" />
+
+<img width="913" height="536" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/b801fc22-5f8d-4c57-8579-6149142e63c4" />
+
+<img width="598" height="313" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/82aea91e-a251-46f1-ac29-e9fc9da7655d" />
+
+<img width="707" height="332" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/509999a7-ff49-483a-96f6-49fb1b8d6dbb" />
+
+<img width="421" height="331" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/c6c8268b-a826-447c-9ae8-9d6a55167e6b" />
+
+## Task 3: Data Analysis
+<img width="926" height="517" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/413f6dc7-1d72-415a-947f-603606afdb5c" />
