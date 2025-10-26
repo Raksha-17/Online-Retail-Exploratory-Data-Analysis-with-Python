@@ -11,8 +11,8 @@ By conducting exploratory data analysis, I will identify patterns, outliers, and
 
 ## Project Objectives
 1. Describe data to answer key questions to uncover insights.
-2.) Gain valuable insights that will help improve online retail performance.
-3.) Provide analytic insights and data-driven recommendations.
+2. Gain valuable insights that will help improve online retail performance.
+3. Provide analytic insights and data-driven recommendations.
 
 ## Dataset
 The dataset you will be working with is the "Online Retail" dataset. It contains transactional data of an online retail store from 2010 to 2011. The dataset is available as a .xlsx file named Online Retail.xlsx.
