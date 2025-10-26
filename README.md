@@ -119,4 +119,41 @@ I may explore this dataset in any way I would like, here are a few ideas:
 <img width="1174" height="366" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/437e97af-f938-4361-8aaa-d07992053360" />
 
 <img width="1170" height="377" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/081a74e7-ebc3-46bc-be18-a08e906db411" />
+
 <img width="545" height="232" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/0e6ab90a-a68b-4c6d-b1b4-9d4314fed67b" />
+
+## Task 6: Outlier Detection and Analysis
+
+<img width="790" height="520" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/f247c6df-3f46-469a-bd35-de730e98545c" />
+
+<img width="352" height="232" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/debabf7b-06c5-418f-ba9b-51aec275cd37" />
+
+<img width="1190" height="390" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/cc6fbc12-0b25-4db3-b571-2390a4667d40" />
+
+<img width="1132" height="392" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/a0712aea-ccef-461a-ab09-a1a16caa5ee4" />
+
+<img width="697" height="422" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/7b3a8d97-cb12-4f6e-929a-dad3b0746762" />
+
+## Task 7: Customer Purchase Pattern and Summary
+
+<img width="720" height="528" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/73adacd8-d9bf-4121-b559-d2d06575a5c7" />
+
+<img width="1183" height="494" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/29779261-5706-4c3b-a6f2-a9e719d7843f" />
+
+<img width="409" height="429" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/b2641809-3f68-41bd-ac17-c901a4934897" />
+
+<img width="320" height="172" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/902096e3-4671-4d34-bac4-394c04c30810" />
+
+<img width="1161" height="514" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/186de33c-2fc0-4554-a058-7d36959b832e" />
+
+<img width="756" height="524" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/50a4d171-d934-4c99-9f95-ec8c3948a1db" />
+
+<img width="832" height="521" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/4cd98f35-9ddc-495f-a918-5534de4413da" />
+
+<img width="671" height="497" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/c964e35c-0773-4652-953f-80114bf54f7e" />
+
+<img width="928" height="514" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/cb2e1a6d-09c4-45ab-9da7-1a889d0de39b" />
+
+<img width="1183" height="520" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/a4944961-85c3-460e-8de8-a282cb4aed0f" />
+
+<img width="1094" height="527" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/0a280617-fe7f-4875-80ab-6877dd006b72" />
